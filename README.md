@@ -4,7 +4,7 @@
 </p>
 <p align="center">
 <section class="banner">
-  <img src="assets/banner.jpg" width="900" alt="Banner">
+  <img src="https://github.com/AaronGranadoVargas/assets/blob/c13e9f1738fc448e1b3f0687ea139c0d4a7e3f5a/BANNER.png" width="900" alt="Banner">
 </section>
 </p>
 
