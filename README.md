@@ -1,126 +1,138 @@
-<h1 align="center">Hi , I'm Aarón Granado</h1>
-<p align="center">
-  <a href=""></a>
-</p>
-<p align="center">
-<section class="banner">
-  <img src="https://github.com/AaronGranadoVargas/assets/blob/c13e9f1738fc448e1b3f0687ea139c0d4a7e3f5a/BANNER.png" width="3500" alt="Banner">
-</section>
-</p>
+<div align="center">
+  <img src="https://github.com/AaronGranadoVargas/assets/blob/c13e9f1738fc448e1b3f0687ea139c0d4a7e3f5a/BANNER.png" width="100%"/>
+</div>
 
-<br>
-
-
-<p align="center"> 
-</p>
-
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-
-- :school: I am a `Junior` Developer.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Computer Engineering`.
-- :thinking: I’m currently looking for a new opportunities .
-- :boom: You can look [MY CV](https://www.dropbox.com/scl/fi/8wgrtceji3w642wplc9e1/cv.pdf?rlkey=o5fpd4r3r1l4bqyuxncnwfjxp&st=1jb0jgd0&dl=0).
-<br>
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="center">
-	<a href="mailto:aarongranadovargas@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/AaronGranadoVargas"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/654771007"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/aaron-granado-01a0a7330/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
-
-
-## 🛠️ My Skills
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
-<p align="center">
-  <a href="https://kotlinlang.org/" target="_blank"> 
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-800080.svg?style=plastic&logo=java&logoColor=white">
+<div align="center">
+  <a href="https://git.io/typing-svg">
   </a>
-  &emsp;
-  <a href="https://openjfx.io/" target="_blank"> 
-    <img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-</p>
+</div>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=Python&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
-<br> 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-  </p<>
 <br/>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+
+<div align="center">
+  <a href="mailto:ahmed.7oskaa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/7oSkaaa">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/7oskaa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/0201208822340">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="http://lnkiy.in/Ahmed_Hossam_Resume">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
+  </a>
+  <a href="https://7oskaaa.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="7oSkaaa" />
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+I am a passionate **Software Development Engineer 2** currently working at **[noon](https://www.noon.com/egypt-en/)**. I graduated from the **[Faculty of Computers & Informatics, Suez Canal University](http://suez.edu.eg/ar/)**.
+
+> Building scalable systems and solving complex problems with a passion for efficient, elegant solutions.
+
+My journey is driven by a love for problem-solving and building efficient software solutions. I have a strong background in **Competitive Programming**, having been a **3x ACPC Finalist**. I enjoy tackling complex algorithmic challenges on platforms like Codeforces, LeetCode, and AtCoder.
+
+- 🔭 I’m currently working on scaling high-performance systems.
+- 🌱 I’m currently learning advanced distributed systems patterns.
+- 💬 Ask me about **Algorithms, Data Structures, and Backend Development**.
+
+---
+
+## 💼 Experience
+
+### Software Development Engineer 2 @ [noon](https://www.noon.com/)
+*Key Responsibilities:*
+- Built two internal services from scratch: A tools platform for the catalog team and an internal form service used across noon.
+- Took full ownership of the Product Listing Page (PLP) and Product Detail Page (PDP) backend, improving speed and stability.
+- Improved PLP/PDP performance by optimizing heavy queries, reducing slow backend paths, and building stronger caching systems.
+- Maintained and improved a background service (Python) that handles product and offer re-indexing.
+- Helped rewrite a main catalog service from JavaScript to Go, making it faster and cleaner.
+- Refactored backend services and added shared utilities like Bigtable helpers and caching helpers.
+- Delivered backend features in Go and Python, working with Bigtable, Spanner, MySQL, and BigQuery.
+- Improved code quality through pre-commit hooks and better remote config setup.
+- Mentored new team members and supported onboarding.
+- Enhanced monitoring and reliability using Google Metrics, Alerts, and observability tools.
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+### Languages
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+
+### Backend & Systems
+<img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Distributed%20Systems-000000?style=for-the-badge&logo=distributed-systems&logoColor=white" />
+<img src="https://img.shields.io/badge/System%20Design-000000?style=for-the-badge&logo=design&logoColor=white" />
+<img src="https://img.shields.io/badge/High--Scale%20Arch-000000?style=for-the-badge&logo=architecture&logoColor=white" />
+<img src="https://img.shields.io/badge/Caching-000000?style=for-the-badge&logo=caching&logoColor=white" />
+
+### Cloud & DevOps
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Spanner-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Bigtable-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Pub%2FSub-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=ci-cd&logoColor=white" />
+
+### Frameworks
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+### Tools & Observability
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/Google%20Metrics-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Monitoring-000000?style=for-the-badge&logo=monitor&logoColor=white" />
+
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+  <a href="https://codeforces.com/profile/7oSkaaa">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://leetcode.com/7oSkaa/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://atcoder.jp/users/ahmed_7oSkaa">
+    <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/>
+  </a>
+  <a href="https://www.codechef.com/users/ahmed_7oskaa">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+</div>
