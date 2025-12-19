@@ -36,7 +36,10 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **SoftWare Developer** currently looking for a work. I graduated from the **[Senior technician in multiplatform application development](https://site.educa.madrid.org/ies.tiernogalvan.madrid/)**.
+I am a passionate **SoftWare Developer** currently looking for a work.
+
+I graduated from the **[Senior technician in multiplatform application development](https://site.educa.madrid.org/ies.tiernogalvan.madrid/)**.
+
 
 I want my career to go far, and that's why I'm excited to start as soon as possible.
 
