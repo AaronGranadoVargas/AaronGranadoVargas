@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:aarongranadovargas@gmail.com">
+  <a href="mailto: aarongranadovargas@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/AaronGranadoVargas">
