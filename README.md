@@ -16,7 +16,7 @@
   <a href="https://github.com/AaronGranadoVargas">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/AaronGranadoVargas/">
+  <a href="https://www.linkedin.com/in/aaron-granado-01a0a7330/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://wa.me/654771007">
