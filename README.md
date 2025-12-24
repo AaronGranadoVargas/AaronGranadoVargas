@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AaronGranadoVargas/assets/blob/c13e9f1738fc448e1b3f0687ea139c0d4a7e3f5a/BANNER.png" width="100%"/>
+  <img src="[https://github.com/AaronGranadoVargas/assets/blob/c13e9f1738fc448e1b3f0687ea139c0d4a7e3f5a/BANNER.png](https://github.com/AaronGranadoVargas/assets/blob/7d3fd79c0b33116dd8a15d3020f3ccc28cabfc8e/Untitled-1.png)" width="100%"/>
 </div>
 
 <div align="center">
